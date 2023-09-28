@@ -1,5 +1,2 @@
 #!/bin/bash
-
-# List files in the current directory, the parent directory, and /boot
 ls -al . .. /boot
-
