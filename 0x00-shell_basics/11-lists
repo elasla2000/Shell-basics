@@ -1,2 +1,5 @@
 #!/bin/bash
-ls -al . ../boot
+
+# List files in the current directory, the parent directory, and /boot
+ls -al . .. /boot
+
